@@ -1,7 +1,7 @@
 import urllib.request
 import os
 import zipfile
-import os
+
 
 def download_data(force=False):
     """Download and extract course data from Zenodo."""
