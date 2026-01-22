@@ -1,8 +1,5 @@
-# OS / editor junk
-.DS_Store
-.ipynb_checkpoints/
-
-# Docker / class tooling (nested git repos)
 ml_container-1/
 programming/
 scratchpad/
+.DS_Store
+.ipynb_checkpoints/
